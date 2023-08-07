@@ -98,5 +98,5 @@ View all [JuzaWeb CMS documentation](https://juzaweb.com/documentation/plugin/cm
 - font-awesome
 
 ## Buy me coffee
-[![Hamim Buy me a book](https://i.imgur.com/MAqboRu.png)]([https://www.buymeacoffee.com/osmangani3o]
+[![Hamim Buy me a book](https://i.imgur.com/MAqboRu.png)([https://www.buymeacoffee.com/osmangani3o]
 # blog
