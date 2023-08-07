@@ -1,0 +1,21 @@
+{
+    "name": "juzaweb/demo-site",
+    "description": "",
+    "extra": {
+        "juzaweb": {
+            "providers": [
+                "Juzaweb\\DemoSite\\Providers\\DemoSiteServiceProvider"
+            ],
+            "name": "Demo site",
+            "domain": "demo",
+            "cms_min": "^3.0",
+            "version": "1.0.1",
+            "setting_url": "setting/system/demo-site"
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Juzaweb\\DemoSite\\": "src/"
+        }
+    }
+}
