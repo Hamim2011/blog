@@ -24,11 +24,6 @@ Config database in your `.env` file, and run:
 php artisan juzacms:install
 ```
 
-## Documentation
-View all [JuzaWeb CMS documentation](https://juzaweb.com/documentation/plugin/cms/start/installation)
-
-
-
 ## Features
 - [x] File manager
 - [x] Post Type support
