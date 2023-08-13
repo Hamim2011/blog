@@ -8,11 +8,6 @@ JUZACMS - Laravel CMS for Your Project
 [![GitHub followers](https://img.shields.io/github/followers/juzaweb?style=social)](https://github.com/juzaweb)
 
 
-- Demo Site: 
-    - Frontend: https://cms.juzaweb.com
-    - Admin: 
-        - https://cms.juzaweb.com/admin-cp 
-        - User/Pass: demo@juzaweb.com / demo@juzaweb.com
 
 
 ## Requirements
@@ -98,5 +93,5 @@ View all [JuzaWeb CMS documentation](https://juzaweb.com/documentation/plugin/cm
 - font-awesome
 
 ## Buy me coffee
-[![Hamim Buy me a book](https://i.imgur.com/MAqboRu.png)([https://www.buymeacoffee.com/osmangani3o]
+[![Hamim Buy me a book](https://i.imgur.com/MAqboRu.png)([https://www.buymeacoffee.com/osmangani3o])
 # blog
